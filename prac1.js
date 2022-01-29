@@ -15,5 +15,5 @@ btn.addEventListener("click", function() {
 		counter = 0;
 	}
 	img.src = pics[counter]
-	counter = counter + 1;
+	counter++;
 	})
