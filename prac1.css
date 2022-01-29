@@ -37,7 +37,7 @@ h1 {
  	text-decoration: none;
  	outline: none;
  	text-transform: uppercase;
-	cursor:pointer;
+	cursor: pointer;
  }
  button:hover {
  	transition: 1s;
